@@ -115,7 +115,7 @@ function App() {
           }}
         >
           <p style={{ fontSize: "19px", fontWeight: 600 }}>
-            Navchi Photo editor
+          Photo editor
           </p>
           <p
             style={{
